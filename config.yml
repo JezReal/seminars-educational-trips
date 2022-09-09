@@ -1,4 +1,4 @@
-baseURL : 'http://example.org/'
+baseURL : 'https://jezreal.github.io/seminars-educational-trips'
 languageCode : 'en-us'
 title : CS Seminars & Educational Trips
 theme : PaperMod
