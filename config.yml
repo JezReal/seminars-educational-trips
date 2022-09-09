@@ -1,0 +1,21 @@
+baseURL : 'http://example.org/'
+languageCode : 'en-us'
+title : CS Seminars & Educational Trips
+theme : PaperMod
+
+params:
+    homeInfoParams:
+        Title: Hello there👋
+        Content: I'm Jezreel Joshua Martin. Currently on my final year (hopefully) of Bachelor of Science in Computer Science @ Gordon College 
+
+    socialIcons: # optional
+        - name: "Github"
+          url: "https://github.com/JezReal"
+
+    defaultTheme: dark
+
+
+menu:
+    main: 
+        - name: Posts
+          url: posts 
