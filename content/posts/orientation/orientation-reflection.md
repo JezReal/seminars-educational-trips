@@ -27,4 +27,7 @@ Although the event took a few hours because of the various agenda that needs to 
 For my suggestions for improvement, there is only one thing that I would like to suggest which is the attendance monitoring of the participants. In order to record the attendance of the student, they must scan a QR code which takes them to a Google form. This poses a problem for those that attended the event face-to-face that does not have an internet connection since there is also a time limit that the form is open. In my opinion, in future seminars/webinars, it is important for the organizers to also consider how the attendance of the participants that joins their event face-to-face will be recorded.
 
 ### VI. Photos/videos taken
-![It does not show](/static/images/orientation/3.jpg "First image")
+![Selfie of two people](/posts/orientation/images/3.jpg "First image")
+![Image of venue](/posts/orientation/images/4.jpg "Second image")
+![Image of me](/posts/orientation/images/6.jpg "Third image")
+![BSCS](/posts/orientation/images/7.jpg "Fourth image")
