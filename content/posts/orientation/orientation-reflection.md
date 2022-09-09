@@ -1,7 +1,7 @@
 ---
 title: "CCS Student Orientation Reflection"
 date: 2022-09-09T12:46:27+08:00
-draft: false
+draft: true
 ---
 ### I. Details of the event/activity
 The student orientation was conducted at the function hall of Gordon College last August 18, 2022 and was conducted by the College of Computer Studies. Although we attended the event face-to-face, it was also streamed live through Zoom and Facebook so that those students that cannot attend will also be able to join the event albeit online. 
