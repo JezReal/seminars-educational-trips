@@ -30,6 +30,6 @@ Watching the event, you can really tell that they took their time to prepare and
 Although the event definitely went really smooth, there were still hiccups and it was mostly due to techinical difficulties such as the microphone of the speaker suddenly failing, the presentation not working, etc. While these cannot be avoided, I think that the organizers should always keep an eye out for such cases
 
 ### VI. Photos/videos taken
-![First](/seminars-educational-trips/posts/microsoft-build/images/6.jpg "First")
-![Second](/seminars-educational-trips/posts/microsoft-build/images/8.jpg "Second")
-![Third](/seminars-educational-trips/posts/microsoft-build/images/9.jpg "Third")
+![First](/seminars-educational-trips/posts/microsoft-build/images/6.png "First")
+![Second](/seminars-educational-trips/posts/microsoft-build/images/8.png "Second")
+![Third](/seminars-educational-trips/posts/microsoft-build/images/9.png "Third")
