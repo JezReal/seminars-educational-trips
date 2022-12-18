@@ -1,7 +1,7 @@
 ---
 title: "Decode PH"
 date: 2022-12-19T01:50:26+08:00
-draft: true
+draft: false
 ---
 
 ## Cyber Defense Society
