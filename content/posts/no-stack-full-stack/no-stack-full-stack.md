@@ -10,7 +10,7 @@ draft: false
 This webinar was part of a series of webinars entitled _No Stack to Full Stack: Basics of the Web_. It basically teaches the basics of web development from frontend development to backend development and aims to equip the audience in their full stack journey. This session focuses on the basics of MySQL which is one of the major database systems that are being used.
 
 ### II. Reflections on the seminar/activity gives rise to
-The session was a reat refresher for me on the basics of MySQL. As a backend developer myself, I am always using SQL and it was nice watching the webinar and then being able to write the solution in my head before the speaker does. 
+The session was a great refresher for me on the basics of MySQL. As a backend developer myself, I am always using SQL and it was nice watching the webinar and then being able to write the solution in my head before the speaker does. 
 
 ### III. Reflections on possibilities on implementing some of the webinar input on a practical level (practical application of learnings)
 The main thing that I would implement would be the tips that the speaker shared when it comes to writing SQL queries which could improve the performance of my SQL queries.
