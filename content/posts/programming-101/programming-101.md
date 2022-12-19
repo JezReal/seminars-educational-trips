@@ -1,7 +1,7 @@
 ---
 title: "Programming 101"
 date: 2022-12-19T13:32:01+08:00
-draft: true
+draft: false
 ---
 
 ## C Language
